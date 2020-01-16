@@ -13,3 +13,7 @@ You need to install node and a browser
 ## Start the app
 
     npm start
+
+## Website in live
+
+https://node-myfirstwebsite.rubendariorq.now.sh/
